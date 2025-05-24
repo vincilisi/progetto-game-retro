@@ -1,0 +1,80 @@
+.area {
+    background-image: url(/media/bg-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
+.area .container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.primo{
+    max-height: 100vh;
+}
+
+.icon {
+    font-size: 25px; /* Ingrandisce l'icona */
+    color: #ffed00; /* Giallo */
+}
+
+
+.area1{
+    background-color: #1b1540 ;
+}
+
+.p-1{
+    font-size: 18px;
+}
+
+
+.area2{
+    background-image: url(/media/bg-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box-coscom{
+    background-color: #1b1540;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 120px;
+}
+.full-width-button {
+    width: 100%;
+    font-size: 20px;
+}
+
+.icon1{
+    font-size: 50px; /* Ingrandisce l'icona */
+    color: #ffed00; /* Giallo */
+}
+
+.transparent-input {
+    background: transparent; /* Sfondo trasparente */
+    border: none; /* Nessun bordo visibile */
+    border-bottom: 2px solid #6a0dad; /* Solo una linea viola */
+    color: white; /* Testo leggibile su sfondo scuro */
+    padding: 5px;
+    font-size: 16px;
+    outline: none; /* Rimuove il bordo evidenziato al focus */
+    width: 100%;
+}
+
+.numeri {
+    display: flex;
+    gap: 10px; /* Spazio tra gli input */
+    align-items: center; /* Allinea gli elementi */
+}
+
+
+.area3{
+    background-color: #140925;
+}
+
+.area4{
+    background-image: url(/media/bg-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}   
